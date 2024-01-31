@@ -7,6 +7,7 @@ En väl genomarbetad plan. Hur ska du gå tillväga för att nå ditt syfte? Vil
 En systematisk undersökning. Samla in data på ett strukturerat sätt och analysera den noggrant.  
 En tydlig presentation av resultaten. Hur ska du presentera dina resultat? Vilka slutsatser kan du dra?  
 En reflektion över arbetet. Vad har du lärt dig? Vad har du fått för erfarenheter?  
+
 I praktiken innebär det att du behöver:  
 
 Välja ett ämne som du är intresserad av och som du har kunskaper om.  
